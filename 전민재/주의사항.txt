@@ -3,3 +3,10 @@
 push할것은 change commit에 간단한 설명 적기
 같은 파일 작업시 충돌가능성 있어 공통파일 작업시 카톡에 남기기
 
+개인공간으로 복사해서 사용한다면 해당공간에 data파일과 data내 resize파일,resize내에 0~9파일을 만들고 난후 실행
+
+pdf를 img로 변환했다면 dat파일에 img저장한다
+imageresizemodule을 돌리고 imagecuttingandlabeling을 돌려야함
+
+380*380을 이미준비했다면 
+resize에 저장후  imagecuttingandlabeling을 돌려야함
